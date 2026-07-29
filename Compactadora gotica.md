@@ -12,7 +12,9 @@ Primer Semestre \- 2026
 
 Descripción del Proyecto:  
 	Nuestro proyecto es una caneca compactadora para la ciudad de Bogota, con el objetivo de remediar el problema de las basuras a lo largo de la ciudad. reduciendo el espacio que estas toman y separando los lixiviados de los residuos solidos. con un sistema hidráulico para la compactacion de estos residuos, y un filtrado por gravedad que sanitiza los residuos solidos para su recolección posterior.
+
 presentacion con imagenes: https://canva.link/48jq404697yto4d
+
 Palabras Clave:   
 	1.Residuos  
 	2.Compactador  
@@ -30,11 +32,17 @@ alcance:
 ruta:
 
 Diagrama de caja negra:![][image1]![][image2]
+
 referir a imagen 1-2
+
 Diseño 3D![][image3]
+
 referir a imagen 3
+
 Esquematico de conexiones![][image4]
+
 referir a imagen 4
+
 Conclusiones:   
 	El proyecto tuvo varios problemas al contactar con el fabricador de pcbs y no se pudieron hacer las simulaciones necesarias para asegurar el funcionamiento de esto. No hay suficiente informacion para poder decir si el proyecto fue satisfactorio
 
