@@ -2,7 +2,7 @@ Compactadora gotica
 
 Juan Manuel Villabon Nuñez  
 Miguel angel Barragan Perdomo   
-\-
+Diego Alexander Callejas Parra
 
 Universidad Nacional de Colombia
 
@@ -13,13 +13,13 @@ Primer Semestre \- 2026
 Descripción del Proyecto:  
 	Nuestro proyecto es una caneca compactadora para la ciudad de Bogota, con el objetivo de remediar el problema de las basuras a lo largo de la ciudad. reduciendo el espacio que estas toman y separando los lixiviados de los residuos solidos. con un sistema hidráulico para la compactacion de estos residuos, y un filtrado por gravedad que sanitiza los residuos solidos para su recolección posterior.
 
-presentacion con imagenes: https://canva.link/48jq404697yto4d
+imagenes del documento: https://canva.link/48jq404697yto4d
 
 Palabras Clave:   
 	1.Residuos  
 	2.Compactador  
-	3.-----
-
+	3.Lixiviados
+	4.----PlaceHolder-----
 Contexto sobre la problemática:	  
 La gestión de residuos sólidos en Bogotá constituye uno de los mayores desafíos ambientales y urbanos de la ciudad. Con una población superior a los ocho millones de habitantes, la generación diaria de residuos aumenta constantemente debido al crecimiento poblacional, la urbanización y el incremento del consumo. Aunque existe un sistema de recolección organizado, todavía se presentan problemas relacionados con la disposición inadecuada de residuos, el bajo aprovechamiento de materiales reciclables y la alta dependencia del relleno sanitario de Doña Juana. Bajo la perspectiva ambiental los lixiviados que dejan los productos orgánicos generan daños a los medio ambientes cercanos, disminuyendo la calidad del aire y también la calidad del suelo. Como también generan daños a las poblaciones cercanas, facilitando la propagación de plagas como ratas, mosquitos y moscas.
 
@@ -28,7 +28,8 @@ Objetivo:
 
 alcance:   
 	Este proyecto tiene como objetivo a las zonas de bogota con mas inconvenientes de los residuos, como ciudad bolivar, kennedy entre otros. 
-
+Impacto ambiental y acciones propuestas de mitigación
+	El proyecto en esta etapa no proyecta la separacion de materiales reciclables y no reciclables o si tienen contaminacion que podrian de hacerlos inutilizables, esto se podria de mejorar con las siguientes iteraciones del proyecto, esto se podria mejorar con la implementacion de un mecanismo y/o algoritmo que pueda de separar los residuos.
 ruta:
 
 Diagrama de caja negra:![][image1]![][image2]
@@ -44,8 +45,7 @@ Esquematico de conexiones![][image4]
 referir a imagen 4
 
 Conclusiones:   
-	El proyecto tuvo varios problemas al contactar con el fabricador de pcbs y no se pudieron hacer las simulaciones necesarias para asegurar el funcionamiento de esto. No hay suficiente informacion para poder decir si el proyecto fue satisfactorio
-
+	El proyecto aunque sea viable en teoria no se logro poner en practica durante el semestre por varios contratiempos------PlaceHolder_____-
 Recomendaciones para trabajos futuros:  
 	Cambiar de fabricador de pcbs y revisar el guardado de archivos correctamente.
 
