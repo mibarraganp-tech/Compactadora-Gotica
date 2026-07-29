@@ -1,7 +1,7 @@
 Compactadora gotica
 
 Juan Manuel Villabon Nuñez  
-\-  
+Miguel angel Barragan Perdomo   
 \-
 
 Universidad Nacional de Colombia
